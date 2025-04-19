@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/your-logo.png" width="200" alt="Textlayer logo">
+  <img src="logo-large.png" width="1000" alt="Textlayer logo">
 </p>
-
-<h1 align="center">Textlayer</h1>
-
 <p align="center">
 <strong>Enterprise AI enablement for teams that ship.</strong><br>
 </p>
